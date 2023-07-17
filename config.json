@@ -1,0 +1,27 @@
+{
+    "antinuke": {
+        "time_between_actions": 2000,
+        "askToKick": true,
+        "saveInLogs": true,
+        "maxKickUsers": 3,
+        "maxBanUsers": 3,
+        "maxDeleteChannels": 2,
+        "ignoreUser": []
+    },
+    "backups": {
+        "deleteAfterOneMonth": true
+    },
+    "antispam": {
+        "time_between_actions": 1000,
+        "maxMessages": 5,
+        "type": "warn"
+    },
+    "logs": {
+        "active": true,
+        "logChannel": "1082721487787667596",
+        "guild": "953000780867186688"
+    },
+    "warnSystem": {
+        "maxWarns": 3
+    }
+}
